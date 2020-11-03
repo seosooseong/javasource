@@ -8,7 +8,7 @@ public class exceptionTest2 {
 		String data2 = "200";
 		
 		int value1 = Integer.parseInt(data1);
-		int value2 = Integer.parseInt(data2); //런타임에러-실행해야 알 수 있음.
+		int value2 = Integer.parseInt(data2); //runtime error
 		
 		System.out.println(value1+value2);
 		
