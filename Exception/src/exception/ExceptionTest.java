@@ -16,6 +16,9 @@ public class ExceptionTest {
 		} catch (ClassNotFoundException e) {
 //			e.printStackTrace();
 			System.out.println("입력값을 확인해 주세요");
+				
+			
+			
 		}
 		
 		
