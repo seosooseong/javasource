@@ -8,9 +8,11 @@ public class exceptionTest2 {
 		String data2 = "a100";
 		
 		int value1 = Integer.parseInt(data1);
-		int value2 = Integer.parseInt(data2); //·±Å¸ÀÓ¿¡·¯-½ÇÇàÇØ¾ß ¾Ë ¼ö ÀÖÀ½.
+		int value2 = Integer.parseInt(data2); //ëŸ°íƒ€ì„ì—ëŸ¬-ì‹¤í–‰í•´ì•¼ ì•Œ ìˆ˜ ìˆìŒ.
 		
 		System.out.println(value1+value2);
+		
+		
 	}
 
 }
