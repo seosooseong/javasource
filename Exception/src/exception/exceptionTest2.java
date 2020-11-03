@@ -14,6 +14,8 @@ public class exceptionTest2 {
 		
 		System.out.println(value1);
 		
+		System.out.println(value2);
+		
 	}
 
 }
