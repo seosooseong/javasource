@@ -9,6 +9,7 @@ public class Main {
 		
 		System.out.println("Home push test 01");
 		System.out.println("Home pull test 02");
+		System.out.println("Home pull test 03");
 	}
 
 }
